@@ -17,9 +17,9 @@
 
 > (ex. [02장] 객체 생성과 파괴 - harry-bro)
 
-## 진행 상황 🙉
+# 진행 상황 🙉
 
-### 다 읽은 책 📚
+## 다 읽은 책 📚
 
-### 현재 읽고 있는 책 📖
+## 현재 읽고 있는 책 📖
 - [이펙티브 자바 3판(Effective Java 3/E)](https://book.naver.com/bookdb/book_detail.nhn?bid=14097515) - Joshua Bloch
