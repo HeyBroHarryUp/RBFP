@@ -106,8 +106,6 @@ public int compareTo(PhoneNumber pn) {
 }
 ```
 
-
-
 ## compareTo 안티 패턴
 
 - compareTo 메서드에서 관계연산자 (`<` 와 `>`)를 사용하지 말아야 한다.
